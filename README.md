@@ -14,9 +14,9 @@ As part of the NTI DevOps and Automation Initiative course, this repository cont
 
 Take the following actions to deploy the infrastructure:
 
-   1- Required conditions: Make sure your local machine has Terraform installed.
-   2- Clone the Repository: Copy the contents of this repository to your desktop.
-   3- Start Terraform: To start the Terraform configuration, run terraform init.
-   4- Configure Variables: Add your AWS credentials and any other necessary variables to the terraform.tfvars file.
-   5- Deploy Infrastructure: To deploy the infrastructure to AWS, run Terraform apply.
+    Required conditions: Make sure your local machine has Terraform installed.
+    Clone the Repository: Copy the contents of this repository to your desktop.
+    Start Terraform: To start the Terraform configuration, run terraform init.
+    Configure Variables: Add your AWS credentials and any other necessary variables to the terraform.tfvars file.
+    Deploy Infrastructure: To deploy the infrastructure to AWS, run Terraform apply.
 
